@@ -61,12 +61,6 @@ A medical information chatbot built with Retrieval-Augmented Generation (RAG) to
 - Gemini API key (free)
 - Medical PDF documents
 
-## Support
-
-For issues or questions:
-- Open an issue in this repository
-- Contact: mkommugu@charlotte.edu
-
 ---
 
 **Built for educational healthcare information retrieval**
