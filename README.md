@@ -41,3 +41,33 @@ A medical information chatbot built with Retrieval-Augmented Generation (RAG) to
 - The system will automatically process and index the content
 
 ## Usage Examples
+- diabetes treatment
+
+## Important Medical Disclaimer
+
+⚠️ **This chatbot is for educational purposes only. Always consult qualified healthcare professionals for medical advice, diagnosis, or treatment.**
+
+## How It Works
+
+1. **Document Ingestion**: Uploads and processes medical PDF documents
+2. **Text Chunking**: Splits content into manageable pieces for better search
+3. **Vector Embeddings**: Converts text into numerical representations
+4. **Similarity Search**: Finds relevant information based on user queries
+5. **Response Generation**: Uses AI to provide contextual answers
+
+## Requirements
+
+- Google Colab account
+- Gemini API key (free)
+- Medical PDF documents
+
+## Support
+
+For issues or questions:
+- Open an issue in this repository
+- Contact: mkommugu@charlotte.edu
+
+---
+
+**Built for educational healthcare information retrieval**
+
